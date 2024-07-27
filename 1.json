@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "client": {
+    "cpf": "12345678912",
+    "name": "Gabriel",
+    "location": {
+      "cep": "08557-760",
+      "logradouro": "Rua Lúcia Verônica Marchini",
+      "bairro": "Vila Lúcia",
+      "cidade": "Poá",
+      "estado": "SP",
+      "numero": 45
+    }
+  },
+  "price": 10.0,
+  "product": [
+    "Dogville",
+    "Matrix"
+  ]
+}
